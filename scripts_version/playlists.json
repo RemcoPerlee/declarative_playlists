@@ -1,0 +1,2283 @@
+{
+  "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists?offset=0&limit=20",
+  "items" : [ {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/spotifydiscover/playlist/4Qz5Ii3TlQsgw7M27fipKX"
+    },
+    "href" : "https://api.spotify.com/v1/users/spotifydiscover/playlists/4Qz5Ii3TlQsgw7M27fipKX",
+    "id" : "4Qz5Ii3TlQsgw7M27fipKX",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://u.scdn.co/images/pl/default/a2b82e45e06f978842e44d567c7a49773d042002",
+      "width" : null
+    } ],
+    "name" : "Discover Weekly",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/spotifydiscover"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotifydiscover",
+      "id" : "spotifydiscover",
+      "type" : "user",
+      "uri" : "spotify:user:spotifydiscover"
+    },
+    "public" : false,
+    "snapshot_id" : "amdf4ZOgI5/i3vonQqaR3tgHL7LfxJjclreocNoswcMS68YBbj2NcAMyNLEZNson",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/spotifydiscover/playlists/4Qz5Ii3TlQsgw7M27fipKX/tracks",
+      "total" : 30
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:spotifydiscover:playlist:4Qz5Ii3TlQsgw7M27fipKX"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/6RMJ6AH4KZzIAtBPuWLScX"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/6RMJ6AH4KZzIAtBPuWLScX",
+    "id" : "6RMJ6AH4KZzIAtBPuWLScX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/9af30430a490e4af04f7a2f0d73c8f2dcee99c5641e1a42f3574cd4bb06b2e994b4c27b8b25ec243748aa37d5c9cd8f0afe155ddc990bf838eb7f07d05b8a28c6cbfdbd78bfe7ba8d927632cf22862eb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/9af30430a490e4af04f7a2f0d73c8f2dcee99c5641e1a42f3574cd4bb06b2e994b4c27b8b25ec243748aa37d5c9cd8f0afe155ddc990bf838eb7f07d05b8a28c6cbfdbd78bfe7ba8d927632cf22862eb",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/9af30430a490e4af04f7a2f0d73c8f2dcee99c5641e1a42f3574cd4bb06b2e994b4c27b8b25ec243748aa37d5c9cd8f0afe155ddc990bf838eb7f07d05b8a28c6cbfdbd78bfe7ba8d927632cf22862eb",
+      "width" : 60
+    } ],
+    "name" : "Parallel Futures",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "EKaCkzjTcpNb5g5TYPelUndYBbKocJ8JAg3Ei0+xUULoli3kli2ZsIR0G9nQSo9W",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/6RMJ6AH4KZzIAtBPuWLScX/tracks",
+      "total" : 6
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:6RMJ6AH4KZzIAtBPuWLScX"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/spotify/playlist/4UIvC4UYUecnpWkHCMRlri"
+    },
+    "href" : "https://api.spotify.com/v1/users/spotify/playlists/4UIvC4UYUecnpWkHCMRlri",
+    "id" : "4UIvC4UYUecnpWkHCMRlri",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://u.scdn.co/images/pl/default/1a2acbcb9989c2bbfac53dfb9682656b5ea4061d",
+      "width" : null
+    } ],
+    "name" : "New Metal Tracks",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "public" : false,
+    "snapshot_id" : "rOP3xOqBmQOekGIWe3MA0+BHjPhUV7EHzyswQtAp/Vl2I7Xe3gk9PNNA8fAsZHNx",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/spotify/playlists/4UIvC4UYUecnpWkHCMRlri/tracks",
+      "total" : 80
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:spotify:playlist:4UIvC4UYUecnpWkHCMRlri"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/spotify/playlist/2k2AuaynH7E2v8mwvhpeAO"
+    },
+    "href" : "https://api.spotify.com/v1/users/spotify/playlists/2k2AuaynH7E2v8mwvhpeAO",
+    "id" : "2k2AuaynH7E2v8mwvhpeAO",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://u.scdn.co/images/pl/default/0f1ad61be2b4293bca3806d11d15e4bef6bbad73",
+      "width" : null
+    } ],
+    "name" : "Kick-Ass Metal",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "public" : false,
+    "snapshot_id" : "6cPoPg/4ZYCg9ZB8JobHcTY+Q9NoZSubEghY+wh2wUBc4srg74CuJHPG6o9c2Hxg",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/spotify/playlists/2k2AuaynH7E2v8mwvhpeAO/tracks",
+      "total" : 50
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:spotify:playlist:2k2AuaynH7E2v8mwvhpeAO"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/digsternl/playlist/6b8350vVrYPsOFluMBeCSO"
+    },
+    "href" : "https://api.spotify.com/v1/users/digsternl/playlists/6b8350vVrYPsOFluMBeCSO",
+    "id" : "6b8350vVrYPsOFluMBeCSO",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://u.scdn.co/images/pl/default/d796aa639c749cf5ffedd2141b9748690c3a3a32",
+      "width" : null
+    } ],
+    "name" : "HITS TOP 50",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/digsternl"
+      },
+      "href" : "https://api.spotify.com/v1/users/digsternl",
+      "id" : "digsternl",
+      "type" : "user",
+      "uri" : "spotify:user:digsternl"
+    },
+    "public" : true,
+    "snapshot_id" : "gMy3zs9FIJXM/7CJCO5XeCt5yZTiESXTK5LZpLHWygw643OawaEHqXr3kq/kjX9Z",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/digsternl/playlists/6b8350vVrYPsOFluMBeCSO/tracks",
+      "total" : 50
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:digsternl:playlist:6b8350vVrYPsOFluMBeCSO"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/1184594577/playlist/64yWNQ9srtow9DLBlVDaN2"
+    },
+    "href" : "https://api.spotify.com/v1/users/1184594577/playlists/64yWNQ9srtow9DLBlVDaN2",
+    "id" : "64yWNQ9srtow9DLBlVDaN2",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/dd73b94034fc99a3dd556e4026d205e2199e66f90e9e90a142666c0872bb9cd8f19f62cb2113c2d8007f3d26691dd9983db57279aafa8c78a8173e881392b0f2c786a933f559d72ff104cf17775612cc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/dd73b94034fc99a3dd556e4026d205e2199e66f90e9e90a142666c0872bb9cd8f19f62cb2113c2d8007f3d26691dd9983db57279aafa8c78a8173e881392b0f2c786a933f559d72ff104cf17775612cc",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/dd73b94034fc99a3dd556e4026d205e2199e66f90e9e90a142666c0872bb9cd8f19f62cb2113c2d8007f3d26691dd9983db57279aafa8c78a8173e881392b0f2c786a933f559d72ff104cf17775612cc",
+      "width" : 60
+    } ],
+    "name" : "Hehe",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/1184594577"
+      },
+      "href" : "https://api.spotify.com/v1/users/1184594577",
+      "id" : "1184594577",
+      "type" : "user",
+      "uri" : "spotify:user:1184594577"
+    },
+    "public" : true,
+    "snapshot_id" : "bihX1iGtqvcKI6wp2+JYuygY3q9KfFaU+wYVjAhFmKeLypD/4DfOd3uM8jzegcVM",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/1184594577/playlists/64yWNQ9srtow9DLBlVDaN2/tracks",
+      "total" : 254
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:1184594577:playlist:64yWNQ9srtow9DLBlVDaN2"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/78fgw7RoFiddzuy3XYVIVb"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/78fgw7RoFiddzuy3XYVIVb",
+    "id" : "78fgw7RoFiddzuy3XYVIVb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ced2c500f9f7dfd3e638630ccd6d9526bda110d8",
+      "width" : 640
+    } ],
+    "name" : "Until The World Goes Cold – Trivium",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "TnJMdICEOTvLGw+mREITllHdfcgaaXkPK5/8keEjY0vl/u9OsxYFHOusvnIu80g5",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/78fgw7RoFiddzuy3XYVIVb/tracks",
+      "total" : 2
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:78fgw7RoFiddzuy3XYVIVb"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/3Lt7ziOMgWWGHyVb6PsQ2Q"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/3Lt7ziOMgWWGHyVb6PsQ2Q",
+    "id" : "3Lt7ziOMgWWGHyVb6PsQ2Q",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c8d6cbc9e45ff29f559ce880dffdedc7e24b84cc",
+      "width" : 640
+    } ],
+    "name" : "By The Blood",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "Neg3Ug4UXTeU+9K0riu7dQxOj8jzTYxE9SERUPmUew22jdQWHH4lA49T8PYUK/Yd",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/3Lt7ziOMgWWGHyVb6PsQ2Q/tracks",
+      "total" : 1
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:3Lt7ziOMgWWGHyVb6PsQ2Q"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/6zs2mqHYWkXXxzizrpGIwN"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/6zs2mqHYWkXXxzizrpGIwN",
+    "id" : "6zs2mqHYWkXXxzizrpGIwN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/016caca6edcf78695840c296338277e740c5b7cf",
+      "width" : 640
+    } ],
+    "name" : "Myrath",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "4zHxhO3d3qZMXudyQS8Ax+9PbiXuSM3V7CGnlKAsOYGVa2l6T8IalMFEnezP6zYO",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/6zs2mqHYWkXXxzizrpGIwN/tracks",
+      "total" : 11
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:6zs2mqHYWkXXxzizrpGIwN"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/0XblQND0rHSuY6Vzycs82I"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/0XblQND0rHSuY6Vzycs82I",
+    "id" : "0XblQND0rHSuY6Vzycs82I",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2d258bb952562f2e86b96f1819492f96681b7345",
+      "width" : 640
+    } ],
+    "name" : "Melted Space",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "oCpQcyvw/wNRCsjpu3lwIQWvipMwAlo/6Fe6spIJJy7LtnHfZajWryToZdCCpDiT",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/0XblQND0rHSuY6Vzycs82I/tracks",
+      "total" : 39
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:0XblQND0rHSuY6Vzycs82I"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/7zptMNjHPPcn2mLaoIkGC9"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/7zptMNjHPPcn2mLaoIkGC9",
+    "id" : "7zptMNjHPPcn2mLaoIkGC9",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1ae645d0d280e5d9f64eb906893eaf143be9f94e",
+      "width" : 640
+    } ],
+    "name" : "Crushed",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "n7L0FIfxJnPDHnlZsjII1clHphlSgSOefW5r8dJ5BjYVPA6lvwD5NPGVpEqLvI9L",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/7zptMNjHPPcn2mLaoIkGC9/tracks",
+      "total" : 1
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:7zptMNjHPPcn2mLaoIkGC9"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/5MIwoRWjO0LdPGZUHKkato"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/5MIwoRWjO0LdPGZUHKkato",
+    "id" : "5MIwoRWjO0LdPGZUHKkato",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/40cef8d47265c73985b32b4e004363ce1f313904",
+      "width" : 640
+    } ],
+    "name" : "Caliban",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "Wz11J2pVEXdtKlLbDhsStxVAk5WHXC4EcvfDYq06DQ8kaXLkuxVg/X5u6D4w9hle",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/5MIwoRWjO0LdPGZUHKkato/tracks",
+      "total" : 1
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:5MIwoRWjO0LdPGZUHKkato"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/4dmo9UyC0pYqD0ocY44Rdl"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/4dmo9UyC0pYqD0ocY44Rdl",
+    "id" : "4dmo9UyC0pYqD0ocY44Rdl",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/d3a51650208cb0f7928127fd68db05d6246969893a8bc8afafb242aee0a83357fc257175956bbb417315eee029e87d8a1e9ba84867456f19b619976a8488f7522b1bf76417c7807fb467819f4f13263e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/d3a51650208cb0f7928127fd68db05d6246969893a8bc8afafb242aee0a83357fc257175956bbb417315eee029e87d8a1e9ba84867456f19b619976a8488f7522b1bf76417c7807fb467819f4f13263e",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/d3a51650208cb0f7928127fd68db05d6246969893a8bc8afafb242aee0a83357fc257175956bbb417315eee029e87d8a1e9ba84867456f19b619976a8488f7522b1bf76417c7807fb467819f4f13263e",
+      "width" : 60
+    } ],
+    "name" : "The Alan Parsons Project",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "P09BqABTG2J9jFAurz9gv8S9IBZcyMN9JhE9+GHbHx4cYPcsvci9gVliwcZWga49",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/4dmo9UyC0pYqD0ocY44Rdl/tracks",
+      "total" : 130
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:4dmo9UyC0pYqD0ocY44Rdl"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/2QRBZ7ChSzguc6t9M5ghbB"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/2QRBZ7ChSzguc6t9M5ghbB",
+    "id" : "2QRBZ7ChSzguc6t9M5ghbB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/e967961e987317a29a014abd0c2339766179c34a1d85fc4754783855fed5d82796cd75209ff6a8c7dd81207e251797d167172e064504e2303766be6a6ff1bb5e03a20aca96a75d778e285da50dff4213",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/e967961e987317a29a014abd0c2339766179c34a1d85fc4754783855fed5d82796cd75209ff6a8c7dd81207e251797d167172e064504e2303766be6a6ff1bb5e03a20aca96a75d778e285da50dff4213",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/e967961e987317a29a014abd0c2339766179c34a1d85fc4754783855fed5d82796cd75209ff6a8c7dd81207e251797d167172e064504e2303766be6a6ff1bb5e03a20aca96a75d778e285da50dff4213",
+      "width" : 60
+    } ],
+    "name" : "Pink Floyd",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "ppFKOPMiVKf2nNQYp9uPFaPYrvabQrNgNxLdNAxarPH1RZu8Bn8hCM3wxOwVvSRZ",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/2QRBZ7ChSzguc6t9M5ghbB/tracks",
+      "total" : 163
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:2QRBZ7ChSzguc6t9M5ghbB"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/4kBk92iciVASeNS0EtWExx"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/4kBk92iciVASeNS0EtWExx",
+    "id" : "4kBk92iciVASeNS0EtWExx",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab62ff3ac4d3082aba067435a6579b2bfc81d54e",
+      "width" : 640
+    } ],
+    "name" : "Testament",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "bGvvo9TVZ0PXvP8BRUHbC1UCw3+hm1bXe3bR6MOyQVSwlcaQu60CDN/UpbNJK0qc",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/4kBk92iciVASeNS0EtWExx/tracks",
+      "total" : 15
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:4kBk92iciVASeNS0EtWExx"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/3becpZBkueb4mr9wtnwwoN"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/3becpZBkueb4mr9wtnwwoN",
+    "id" : "3becpZBkueb4mr9wtnwwoN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/23bc83664cb331440c5329a2ea90cbe2eadfa1d60afcfae9805f6548fc4ad6610b3d738b2e36a028f6af0139ba3352fc52b5a2c43c60e7f4f516d9c8240a2f90e8c6dd03682733a9fc88f939e720b9ef",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/23bc83664cb331440c5329a2ea90cbe2eadfa1d60afcfae9805f6548fc4ad6610b3d738b2e36a028f6af0139ba3352fc52b5a2c43c60e7f4f516d9c8240a2f90e8c6dd03682733a9fc88f939e720b9ef",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/23bc83664cb331440c5329a2ea90cbe2eadfa1d60afcfae9805f6548fc4ad6610b3d738b2e36a028f6af0139ba3352fc52b5a2c43c60e7f4f516d9c8240a2f90e8c6dd03682733a9fc88f939e720b9ef",
+      "width" : 60
+    } ],
+    "name" : "Textures",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "I9UxvW0QCanwdmJY3EAO7ICvnACEecjfWz2uE4Jeh5AmqG2S+JEcVHw35YPErqBh",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/3becpZBkueb4mr9wtnwwoN/tracks",
+      "total" : 46
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:3becpZBkueb4mr9wtnwwoN"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/3M5W5meGQrkxrVoKkmQh1W"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/3M5W5meGQrkxrVoKkmQh1W",
+    "id" : "3M5W5meGQrkxrVoKkmQh1W",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/732dce33abecbc519f0f53e150630cb5feb3c4ef",
+      "width" : 640
+    } ],
+    "name" : "Andromeda",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "i1IrEWuAb0I9i3JRokzOQUKg8f0icXqg3QY20VuXbvbp8YRdOKjRqdPZHyr3+xQc",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/3M5W5meGQrkxrVoKkmQh1W/tracks",
+      "total" : 10
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:3M5W5meGQrkxrVoKkmQh1W"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/5dBVesogMCSD6wQyjDZtPX"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/5dBVesogMCSD6wQyjDZtPX",
+    "id" : "5dBVesogMCSD6wQyjDZtPX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/70364dffb739572bf8d99a6a804650a6ee378efa371d799ebaec660045c9397a530d053557dbd7e744b7bf7df2ab69009e4fba13990a9235dc4d8b3dff28d4634859c6e18c162e03bc27d1925a5938de",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/70364dffb739572bf8d99a6a804650a6ee378efa371d799ebaec660045c9397a530d053557dbd7e744b7bf7df2ab69009e4fba13990a9235dc4d8b3dff28d4634859c6e18c162e03bc27d1925a5938de",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/70364dffb739572bf8d99a6a804650a6ee378efa371d799ebaec660045c9397a530d053557dbd7e744b7bf7df2ab69009e4fba13990a9235dc4d8b3dff28d4634859c6e18c162e03bc27d1925a5938de",
+      "width" : 60
+    } ],
+    "name" : "Rammstein",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "RbbK54gWZ+nK26pRVUY+QEFvPb71NT37QEDrYmpKytUiNaxHPA/Y2HMsg49yeuKV",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/5dBVesogMCSD6wQyjDZtPX/tracks",
+      "total" : 71
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:5dBVesogMCSD6wQyjDZtPX"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/7q40viXg8fzgn73XydnuLU"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/7q40viXg8fzgn73XydnuLU",
+    "id" : "7q40viXg8fzgn73XydnuLU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/32e470274127734bb3b161fa550527a7dea830fc",
+      "width" : 640
+    } ],
+    "name" : "Slayer – God Hates Us All",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "HxeBjvFL77Ng9572/DRMcDk9sqZTargJ/Da3smzjoz8pQLhsfO3YyXGoGKVjmaut",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/7q40viXg8fzgn73XydnuLU/tracks",
+      "total" : 13
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:7q40viXg8fzgn73XydnuLU"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/6K2et8t3VCKCZ8xi0QHDpB"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/6K2et8t3VCKCZ8xi0QHDpB",
+    "id" : "6K2et8t3VCKCZ8xi0QHDpB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/45b8542038b3b21e392ffead938153448c68ab1d34f9a16bf380832d6f7c9f4caa0567cb8cfac97ebfcba0de791c1464f5d3e2372e85b4eed1f7f1cff66585e5ae957b2e3a9ab24f3ab6bb86d5b85848",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/45b8542038b3b21e392ffead938153448c68ab1d34f9a16bf380832d6f7c9f4caa0567cb8cfac97ebfcba0de791c1464f5d3e2372e85b4eed1f7f1cff66585e5ae957b2e3a9ab24f3ab6bb86d5b85848",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/45b8542038b3b21e392ffead938153448c68ab1d34f9a16bf380832d6f7c9f4caa0567cb8cfac97ebfcba0de791c1464f5d3e2372e85b4eed1f7f1cff66585e5ae957b2e3a9ab24f3ab6bb86d5b85848",
+      "width" : 60
+    } ],
+    "name" : "Nikita_Mix",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "i164MVxxjVdRWio4RmFwmojtMSegcQfR4+YrK1coMn23GkVWUn1gBFFb8dMLgRhY",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/6K2et8t3VCKCZ8xi0QHDpB/tracks",
+      "total" : 299
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:6K2et8t3VCKCZ8xi0QHDpB"
+  } ],
+  "limit" : 20,
+  "next" : "https://api.spotify.com/v1/users/remcoperlee/playlists?offset=20&limit=20",
+  "offset" : 0,
+  "previous" : null,
+  "total" : 47
+}{
+  "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists?offset=0&limit=50",
+  "items" : [ {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/spotifydiscover/playlist/4Qz5Ii3TlQsgw7M27fipKX"
+    },
+    "href" : "https://api.spotify.com/v1/users/spotifydiscover/playlists/4Qz5Ii3TlQsgw7M27fipKX",
+    "id" : "4Qz5Ii3TlQsgw7M27fipKX",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://u.scdn.co/images/pl/default/a2b82e45e06f978842e44d567c7a49773d042002",
+      "width" : null
+    } ],
+    "name" : "Discover Weekly",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/spotifydiscover"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotifydiscover",
+      "id" : "spotifydiscover",
+      "type" : "user",
+      "uri" : "spotify:user:spotifydiscover"
+    },
+    "public" : false,
+    "snapshot_id" : "amdf4ZOgI5/i3vonQqaR3tgHL7LfxJjclreocNoswcMS68YBbj2NcAMyNLEZNson",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/spotifydiscover/playlists/4Qz5Ii3TlQsgw7M27fipKX/tracks",
+      "total" : 30
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:spotifydiscover:playlist:4Qz5Ii3TlQsgw7M27fipKX"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/6RMJ6AH4KZzIAtBPuWLScX"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/6RMJ6AH4KZzIAtBPuWLScX",
+    "id" : "6RMJ6AH4KZzIAtBPuWLScX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/9af30430a490e4af04f7a2f0d73c8f2dcee99c5641e1a42f3574cd4bb06b2e994b4c27b8b25ec243748aa37d5c9cd8f0afe155ddc990bf838eb7f07d05b8a28c6cbfdbd78bfe7ba8d927632cf22862eb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/9af30430a490e4af04f7a2f0d73c8f2dcee99c5641e1a42f3574cd4bb06b2e994b4c27b8b25ec243748aa37d5c9cd8f0afe155ddc990bf838eb7f07d05b8a28c6cbfdbd78bfe7ba8d927632cf22862eb",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/9af30430a490e4af04f7a2f0d73c8f2dcee99c5641e1a42f3574cd4bb06b2e994b4c27b8b25ec243748aa37d5c9cd8f0afe155ddc990bf838eb7f07d05b8a28c6cbfdbd78bfe7ba8d927632cf22862eb",
+      "width" : 60
+    } ],
+    "name" : "Parallel Futures",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "EKaCkzjTcpNb5g5TYPelUndYBbKocJ8JAg3Ei0+xUULoli3kli2ZsIR0G9nQSo9W",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/6RMJ6AH4KZzIAtBPuWLScX/tracks",
+      "total" : 6
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:6RMJ6AH4KZzIAtBPuWLScX"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/spotify/playlist/4UIvC4UYUecnpWkHCMRlri"
+    },
+    "href" : "https://api.spotify.com/v1/users/spotify/playlists/4UIvC4UYUecnpWkHCMRlri",
+    "id" : "4UIvC4UYUecnpWkHCMRlri",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://u.scdn.co/images/pl/default/1a2acbcb9989c2bbfac53dfb9682656b5ea4061d",
+      "width" : null
+    } ],
+    "name" : "New Metal Tracks",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "public" : false,
+    "snapshot_id" : "rOP3xOqBmQOekGIWe3MA0+BHjPhUV7EHzyswQtAp/Vl2I7Xe3gk9PNNA8fAsZHNx",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/spotify/playlists/4UIvC4UYUecnpWkHCMRlri/tracks",
+      "total" : 80
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:spotify:playlist:4UIvC4UYUecnpWkHCMRlri"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/spotify/playlist/2k2AuaynH7E2v8mwvhpeAO"
+    },
+    "href" : "https://api.spotify.com/v1/users/spotify/playlists/2k2AuaynH7E2v8mwvhpeAO",
+    "id" : "2k2AuaynH7E2v8mwvhpeAO",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://u.scdn.co/images/pl/default/0f1ad61be2b4293bca3806d11d15e4bef6bbad73",
+      "width" : null
+    } ],
+    "name" : "Kick-Ass Metal",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "public" : false,
+    "snapshot_id" : "6cPoPg/4ZYCg9ZB8JobHcTY+Q9NoZSubEghY+wh2wUBc4srg74CuJHPG6o9c2Hxg",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/spotify/playlists/2k2AuaynH7E2v8mwvhpeAO/tracks",
+      "total" : 50
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:spotify:playlist:2k2AuaynH7E2v8mwvhpeAO"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/digsternl/playlist/6b8350vVrYPsOFluMBeCSO"
+    },
+    "href" : "https://api.spotify.com/v1/users/digsternl/playlists/6b8350vVrYPsOFluMBeCSO",
+    "id" : "6b8350vVrYPsOFluMBeCSO",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://u.scdn.co/images/pl/default/d796aa639c749cf5ffedd2141b9748690c3a3a32",
+      "width" : null
+    } ],
+    "name" : "HITS TOP 50",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/digsternl"
+      },
+      "href" : "https://api.spotify.com/v1/users/digsternl",
+      "id" : "digsternl",
+      "type" : "user",
+      "uri" : "spotify:user:digsternl"
+    },
+    "public" : true,
+    "snapshot_id" : "gMy3zs9FIJXM/7CJCO5XeCt5yZTiESXTK5LZpLHWygw643OawaEHqXr3kq/kjX9Z",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/digsternl/playlists/6b8350vVrYPsOFluMBeCSO/tracks",
+      "total" : 50
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:digsternl:playlist:6b8350vVrYPsOFluMBeCSO"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/1184594577/playlist/64yWNQ9srtow9DLBlVDaN2"
+    },
+    "href" : "https://api.spotify.com/v1/users/1184594577/playlists/64yWNQ9srtow9DLBlVDaN2",
+    "id" : "64yWNQ9srtow9DLBlVDaN2",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/dd73b94034fc99a3dd556e4026d205e2199e66f90e9e90a142666c0872bb9cd8f19f62cb2113c2d8007f3d26691dd9983db57279aafa8c78a8173e881392b0f2c786a933f559d72ff104cf17775612cc",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/dd73b94034fc99a3dd556e4026d205e2199e66f90e9e90a142666c0872bb9cd8f19f62cb2113c2d8007f3d26691dd9983db57279aafa8c78a8173e881392b0f2c786a933f559d72ff104cf17775612cc",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/dd73b94034fc99a3dd556e4026d205e2199e66f90e9e90a142666c0872bb9cd8f19f62cb2113c2d8007f3d26691dd9983db57279aafa8c78a8173e881392b0f2c786a933f559d72ff104cf17775612cc",
+      "width" : 60
+    } ],
+    "name" : "Hehe",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/1184594577"
+      },
+      "href" : "https://api.spotify.com/v1/users/1184594577",
+      "id" : "1184594577",
+      "type" : "user",
+      "uri" : "spotify:user:1184594577"
+    },
+    "public" : true,
+    "snapshot_id" : "bihX1iGtqvcKI6wp2+JYuygY3q9KfFaU+wYVjAhFmKeLypD/4DfOd3uM8jzegcVM",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/1184594577/playlists/64yWNQ9srtow9DLBlVDaN2/tracks",
+      "total" : 254
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:1184594577:playlist:64yWNQ9srtow9DLBlVDaN2"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/78fgw7RoFiddzuy3XYVIVb"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/78fgw7RoFiddzuy3XYVIVb",
+    "id" : "78fgw7RoFiddzuy3XYVIVb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ced2c500f9f7dfd3e638630ccd6d9526bda110d8",
+      "width" : 640
+    } ],
+    "name" : "Until The World Goes Cold – Trivium",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "TnJMdICEOTvLGw+mREITllHdfcgaaXkPK5/8keEjY0vl/u9OsxYFHOusvnIu80g5",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/78fgw7RoFiddzuy3XYVIVb/tracks",
+      "total" : 2
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:78fgw7RoFiddzuy3XYVIVb"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/3Lt7ziOMgWWGHyVb6PsQ2Q"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/3Lt7ziOMgWWGHyVb6PsQ2Q",
+    "id" : "3Lt7ziOMgWWGHyVb6PsQ2Q",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c8d6cbc9e45ff29f559ce880dffdedc7e24b84cc",
+      "width" : 640
+    } ],
+    "name" : "By The Blood",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "Neg3Ug4UXTeU+9K0riu7dQxOj8jzTYxE9SERUPmUew22jdQWHH4lA49T8PYUK/Yd",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/3Lt7ziOMgWWGHyVb6PsQ2Q/tracks",
+      "total" : 1
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:3Lt7ziOMgWWGHyVb6PsQ2Q"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/6zs2mqHYWkXXxzizrpGIwN"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/6zs2mqHYWkXXxzizrpGIwN",
+    "id" : "6zs2mqHYWkXXxzizrpGIwN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/016caca6edcf78695840c296338277e740c5b7cf",
+      "width" : 640
+    } ],
+    "name" : "Myrath",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "4zHxhO3d3qZMXudyQS8Ax+9PbiXuSM3V7CGnlKAsOYGVa2l6T8IalMFEnezP6zYO",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/6zs2mqHYWkXXxzizrpGIwN/tracks",
+      "total" : 11
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:6zs2mqHYWkXXxzizrpGIwN"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/0XblQND0rHSuY6Vzycs82I"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/0XblQND0rHSuY6Vzycs82I",
+    "id" : "0XblQND0rHSuY6Vzycs82I",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2d258bb952562f2e86b96f1819492f96681b7345",
+      "width" : 640
+    } ],
+    "name" : "Melted Space",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "oCpQcyvw/wNRCsjpu3lwIQWvipMwAlo/6Fe6spIJJy7LtnHfZajWryToZdCCpDiT",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/0XblQND0rHSuY6Vzycs82I/tracks",
+      "total" : 39
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:0XblQND0rHSuY6Vzycs82I"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/7zptMNjHPPcn2mLaoIkGC9"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/7zptMNjHPPcn2mLaoIkGC9",
+    "id" : "7zptMNjHPPcn2mLaoIkGC9",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1ae645d0d280e5d9f64eb906893eaf143be9f94e",
+      "width" : 640
+    } ],
+    "name" : "Crushed",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "n7L0FIfxJnPDHnlZsjII1clHphlSgSOefW5r8dJ5BjYVPA6lvwD5NPGVpEqLvI9L",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/7zptMNjHPPcn2mLaoIkGC9/tracks",
+      "total" : 1
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:7zptMNjHPPcn2mLaoIkGC9"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/5MIwoRWjO0LdPGZUHKkato"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/5MIwoRWjO0LdPGZUHKkato",
+    "id" : "5MIwoRWjO0LdPGZUHKkato",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/40cef8d47265c73985b32b4e004363ce1f313904",
+      "width" : 640
+    } ],
+    "name" : "Caliban",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "Wz11J2pVEXdtKlLbDhsStxVAk5WHXC4EcvfDYq06DQ8kaXLkuxVg/X5u6D4w9hle",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/5MIwoRWjO0LdPGZUHKkato/tracks",
+      "total" : 1
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:5MIwoRWjO0LdPGZUHKkato"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/4dmo9UyC0pYqD0ocY44Rdl"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/4dmo9UyC0pYqD0ocY44Rdl",
+    "id" : "4dmo9UyC0pYqD0ocY44Rdl",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/d3a51650208cb0f7928127fd68db05d6246969893a8bc8afafb242aee0a83357fc257175956bbb417315eee029e87d8a1e9ba84867456f19b619976a8488f7522b1bf76417c7807fb467819f4f13263e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/d3a51650208cb0f7928127fd68db05d6246969893a8bc8afafb242aee0a83357fc257175956bbb417315eee029e87d8a1e9ba84867456f19b619976a8488f7522b1bf76417c7807fb467819f4f13263e",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/d3a51650208cb0f7928127fd68db05d6246969893a8bc8afafb242aee0a83357fc257175956bbb417315eee029e87d8a1e9ba84867456f19b619976a8488f7522b1bf76417c7807fb467819f4f13263e",
+      "width" : 60
+    } ],
+    "name" : "The Alan Parsons Project",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "P09BqABTG2J9jFAurz9gv8S9IBZcyMN9JhE9+GHbHx4cYPcsvci9gVliwcZWga49",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/4dmo9UyC0pYqD0ocY44Rdl/tracks",
+      "total" : 130
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:4dmo9UyC0pYqD0ocY44Rdl"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/2QRBZ7ChSzguc6t9M5ghbB"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/2QRBZ7ChSzguc6t9M5ghbB",
+    "id" : "2QRBZ7ChSzguc6t9M5ghbB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/e967961e987317a29a014abd0c2339766179c34a1d85fc4754783855fed5d82796cd75209ff6a8c7dd81207e251797d167172e064504e2303766be6a6ff1bb5e03a20aca96a75d778e285da50dff4213",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/e967961e987317a29a014abd0c2339766179c34a1d85fc4754783855fed5d82796cd75209ff6a8c7dd81207e251797d167172e064504e2303766be6a6ff1bb5e03a20aca96a75d778e285da50dff4213",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/e967961e987317a29a014abd0c2339766179c34a1d85fc4754783855fed5d82796cd75209ff6a8c7dd81207e251797d167172e064504e2303766be6a6ff1bb5e03a20aca96a75d778e285da50dff4213",
+      "width" : 60
+    } ],
+    "name" : "Pink Floyd",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "ppFKOPMiVKf2nNQYp9uPFaPYrvabQrNgNxLdNAxarPH1RZu8Bn8hCM3wxOwVvSRZ",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/2QRBZ7ChSzguc6t9M5ghbB/tracks",
+      "total" : 163
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:2QRBZ7ChSzguc6t9M5ghbB"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/4kBk92iciVASeNS0EtWExx"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/4kBk92iciVASeNS0EtWExx",
+    "id" : "4kBk92iciVASeNS0EtWExx",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab62ff3ac4d3082aba067435a6579b2bfc81d54e",
+      "width" : 640
+    } ],
+    "name" : "Testament",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "bGvvo9TVZ0PXvP8BRUHbC1UCw3+hm1bXe3bR6MOyQVSwlcaQu60CDN/UpbNJK0qc",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/4kBk92iciVASeNS0EtWExx/tracks",
+      "total" : 15
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:4kBk92iciVASeNS0EtWExx"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/3becpZBkueb4mr9wtnwwoN"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/3becpZBkueb4mr9wtnwwoN",
+    "id" : "3becpZBkueb4mr9wtnwwoN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/23bc83664cb331440c5329a2ea90cbe2eadfa1d60afcfae9805f6548fc4ad6610b3d738b2e36a028f6af0139ba3352fc52b5a2c43c60e7f4f516d9c8240a2f90e8c6dd03682733a9fc88f939e720b9ef",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/23bc83664cb331440c5329a2ea90cbe2eadfa1d60afcfae9805f6548fc4ad6610b3d738b2e36a028f6af0139ba3352fc52b5a2c43c60e7f4f516d9c8240a2f90e8c6dd03682733a9fc88f939e720b9ef",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/23bc83664cb331440c5329a2ea90cbe2eadfa1d60afcfae9805f6548fc4ad6610b3d738b2e36a028f6af0139ba3352fc52b5a2c43c60e7f4f516d9c8240a2f90e8c6dd03682733a9fc88f939e720b9ef",
+      "width" : 60
+    } ],
+    "name" : "Textures",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "I9UxvW0QCanwdmJY3EAO7ICvnACEecjfWz2uE4Jeh5AmqG2S+JEcVHw35YPErqBh",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/3becpZBkueb4mr9wtnwwoN/tracks",
+      "total" : 46
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:3becpZBkueb4mr9wtnwwoN"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/3M5W5meGQrkxrVoKkmQh1W"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/3M5W5meGQrkxrVoKkmQh1W",
+    "id" : "3M5W5meGQrkxrVoKkmQh1W",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/732dce33abecbc519f0f53e150630cb5feb3c4ef",
+      "width" : 640
+    } ],
+    "name" : "Andromeda",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "i1IrEWuAb0I9i3JRokzOQUKg8f0icXqg3QY20VuXbvbp8YRdOKjRqdPZHyr3+xQc",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/3M5W5meGQrkxrVoKkmQh1W/tracks",
+      "total" : 10
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:3M5W5meGQrkxrVoKkmQh1W"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/5dBVesogMCSD6wQyjDZtPX"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/5dBVesogMCSD6wQyjDZtPX",
+    "id" : "5dBVesogMCSD6wQyjDZtPX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/70364dffb739572bf8d99a6a804650a6ee378efa371d799ebaec660045c9397a530d053557dbd7e744b7bf7df2ab69009e4fba13990a9235dc4d8b3dff28d4634859c6e18c162e03bc27d1925a5938de",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/70364dffb739572bf8d99a6a804650a6ee378efa371d799ebaec660045c9397a530d053557dbd7e744b7bf7df2ab69009e4fba13990a9235dc4d8b3dff28d4634859c6e18c162e03bc27d1925a5938de",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/70364dffb739572bf8d99a6a804650a6ee378efa371d799ebaec660045c9397a530d053557dbd7e744b7bf7df2ab69009e4fba13990a9235dc4d8b3dff28d4634859c6e18c162e03bc27d1925a5938de",
+      "width" : 60
+    } ],
+    "name" : "Rammstein",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "RbbK54gWZ+nK26pRVUY+QEFvPb71NT37QEDrYmpKytUiNaxHPA/Y2HMsg49yeuKV",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/5dBVesogMCSD6wQyjDZtPX/tracks",
+      "total" : 71
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:5dBVesogMCSD6wQyjDZtPX"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/7q40viXg8fzgn73XydnuLU"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/7q40viXg8fzgn73XydnuLU",
+    "id" : "7q40viXg8fzgn73XydnuLU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/32e470274127734bb3b161fa550527a7dea830fc",
+      "width" : 640
+    } ],
+    "name" : "Slayer – God Hates Us All",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "HxeBjvFL77Ng9572/DRMcDk9sqZTargJ/Da3smzjoz8pQLhsfO3YyXGoGKVjmaut",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/7q40viXg8fzgn73XydnuLU/tracks",
+      "total" : 13
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:7q40viXg8fzgn73XydnuLU"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/6K2et8t3VCKCZ8xi0QHDpB"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/6K2et8t3VCKCZ8xi0QHDpB",
+    "id" : "6K2et8t3VCKCZ8xi0QHDpB",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/45b8542038b3b21e392ffead938153448c68ab1d34f9a16bf380832d6f7c9f4caa0567cb8cfac97ebfcba0de791c1464f5d3e2372e85b4eed1f7f1cff66585e5ae957b2e3a9ab24f3ab6bb86d5b85848",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/45b8542038b3b21e392ffead938153448c68ab1d34f9a16bf380832d6f7c9f4caa0567cb8cfac97ebfcba0de791c1464f5d3e2372e85b4eed1f7f1cff66585e5ae957b2e3a9ab24f3ab6bb86d5b85848",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/45b8542038b3b21e392ffead938153448c68ab1d34f9a16bf380832d6f7c9f4caa0567cb8cfac97ebfcba0de791c1464f5d3e2372e85b4eed1f7f1cff66585e5ae957b2e3a9ab24f3ab6bb86d5b85848",
+      "width" : 60
+    } ],
+    "name" : "Nikita_Mix",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "i164MVxxjVdRWio4RmFwmojtMSegcQfR4+YrK1coMn23GkVWUn1gBFFb8dMLgRhY",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/6K2et8t3VCKCZ8xi0QHDpB/tracks",
+      "total" : 299
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:6K2et8t3VCKCZ8xi0QHDpB"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/48KtpoPbSyHOAznHeenkAH"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/48KtpoPbSyHOAznHeenkAH",
+    "id" : "48KtpoPbSyHOAznHeenkAH",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/96c06b3795f8d0049500de175b0a9a839ea22bde",
+      "width" : 640
+    } ],
+    "name" : "Sabaton",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "ZWrwHGX8FBrsDVK4d7++wOrAoZPDWpfoStsnRJ6z1g2xmEV4Zpe/r6F8x4ivIP54",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/48KtpoPbSyHOAznHeenkAH/tracks",
+      "total" : 25
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:48KtpoPbSyHOAznHeenkAH"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/4EdUgHPUKn2unJ7Fxz33Bq"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/4EdUgHPUKn2unJ7Fxz33Bq",
+    "id" : "4EdUgHPUKn2unJ7Fxz33Bq",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ff0f574924386e6c116794de2abf66e260c8be0c",
+      "width" : 640
+    } ],
+    "name" : "Hans Zimmer – Inception",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "ynh8jjAQSv8slasHR2ExzyUJbSCZS6pl82VyzOgPKvbgTLICK/JZfXgDlmPEo0Vp",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/4EdUgHPUKn2unJ7Fxz33Bq/tracks",
+      "total" : 10
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:4EdUgHPUKn2unJ7Fxz33Bq"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/4mDFMCS5nyl3kGms5VGQYb"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/4mDFMCS5nyl3kGms5VGQYb",
+    "id" : "4mDFMCS5nyl3kGms5VGQYb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/a110f1bfec0e723ddfedc50bbcbb7373d93b5bcda9a3fb3dad1186d9205e1a454fca75b19e29519922bfff509d4f209430242c774221b971ca9ea70ec8d784bccf0fa6d364c6cc0c9a567f7b8ea9e4ca",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/a110f1bfec0e723ddfedc50bbcbb7373d93b5bcda9a3fb3dad1186d9205e1a454fca75b19e29519922bfff509d4f209430242c774221b971ca9ea70ec8d784bccf0fa6d364c6cc0c9a567f7b8ea9e4ca",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/a110f1bfec0e723ddfedc50bbcbb7373d93b5bcda9a3fb3dad1186d9205e1a454fca75b19e29519922bfff509d4f209430242c774221b971ca9ea70ec8d784bccf0fa6d364c6cc0c9a567f7b8ea9e4ca",
+      "width" : 60
+    } ],
+    "name" : "Queen ",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "J5CE5NGT2UWjjx96Xs96yAoZtBzUyP0Shp6+mEfko1P6Qa8NnjCqlx9r7HNNiRjC",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/4mDFMCS5nyl3kGms5VGQYb/tracks",
+      "total" : 71
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:4mDFMCS5nyl3kGms5VGQYb"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/63qASxug8U2B5iirthJgDR"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/63qASxug8U2B5iirthJgDR",
+    "id" : "63qASxug8U2B5iirthJgDR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/cf9a0e61c133f9a861a541ad6c798002d9cd06b6",
+      "width" : 640
+    } ],
+    "name" : "Steven Halpern - Deep Alpha: Brainwave Synchronization for Meditation and Healing",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "TNzzEU1/im/US86MLLhxWoJAyTVeFMMC9rF+4U/zPUbXTmyvR56OHWpTbu33aWu7",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/63qASxug8U2B5iirthJgDR/tracks",
+      "total" : 64
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:63qASxug8U2B5iirthJgDR"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/6n9wqoElWp8PooIL9ahNHe"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/6n9wqoElWp8PooIL9ahNHe",
+    "id" : "6n9wqoElWp8PooIL9ahNHe",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/fecfccc94523e6f634c55947302c49be15274f58",
+      "width" : 640
+    } ],
+    "name" : "Tijl klassiek",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "JxPnpQtXrp9d+kQWVuvbfgY9C8qBYDZMOaMaJYga0Mwyw9I0gwHRSED8CxGqaVrY",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/6n9wqoElWp8PooIL9ahNHe/tracks",
+      "total" : 24
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:6n9wqoElWp8PooIL9ahNHe"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/0aFl8BHXoUYbnLDeWYZlil"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/0aFl8BHXoUYbnLDeWYZlil",
+    "id" : "0aFl8BHXoUYbnLDeWYZlil",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2cb6fdbdd91af7e2053816533b8ac2f547fe54d9",
+      "width" : 640
+    } ],
+    "name" : "Hammerfall - Gates Of Dalhalla",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "G3WBuY2+p38IMpBpvZsguQGCDBgS6EV8iFuDnp+YE9zR9qoH7xYS/cboqe3BT+P8",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/0aFl8BHXoUYbnLDeWYZlil/tracks",
+      "total" : 26
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:0aFl8BHXoUYbnLDeWYZlil"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/5iafap9a8JB4Y2ncICS4Xs"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/5iafap9a8JB4Y2ncICS4Xs",
+    "id" : "5iafap9a8JB4Y2ncICS4Xs",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/8cbfb071f87231b1dfe5e63064f222d76147baad704f6190eaf9c14adcbff61d75646a37a7a63e38fe31e7ea687e1d8e339e9ec39a520748ec82316ffcf188c7dc737213802df98ce8fe2abe89e53cec",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/8cbfb071f87231b1dfe5e63064f222d76147baad704f6190eaf9c14adcbff61d75646a37a7a63e38fe31e7ea687e1d8e339e9ec39a520748ec82316ffcf188c7dc737213802df98ce8fe2abe89e53cec",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/8cbfb071f87231b1dfe5e63064f222d76147baad704f6190eaf9c14adcbff61d75646a37a7a63e38fe31e7ea687e1d8e339e9ec39a520748ec82316ffcf188c7dc737213802df98ce8fe2abe89e53cec",
+      "width" : 60
+    } ],
+    "name" : "Powerwolf - Bible Of The Beast",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "+KPTy+VxEEWF3SkI2s+kuKZTenNsxSkLPjle+vQhbYqPD6B0FGunmTFicGMRGl0z",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/5iafap9a8JB4Y2ncICS4Xs/tracks",
+      "total" : 45
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:5iafap9a8JB4Y2ncICS4Xs"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/15CsD6saWxAW3TQf6E03X4"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/15CsD6saWxAW3TQf6E03X4",
+    "id" : "15CsD6saWxAW3TQf6E03X4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/490631b9ee5f8c05fec68055b2671e795f0088e8924f02f3fc827d8328516452c3a83dd907980ef59161b5e282bbe652c80d7a364a6af8871a7a4d4e1585831d467bf5cd1dcbb732ca634591cc4bc2e4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/490631b9ee5f8c05fec68055b2671e795f0088e8924f02f3fc827d8328516452c3a83dd907980ef59161b5e282bbe652c80d7a364a6af8871a7a4d4e1585831d467bf5cd1dcbb732ca634591cc4bc2e4",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/490631b9ee5f8c05fec68055b2671e795f0088e8924f02f3fc827d8328516452c3a83dd907980ef59161b5e282bbe652c80d7a364a6af8871a7a4d4e1585831d467bf5cd1dcbb732ca634591cc4bc2e4",
+      "width" : 60
+    } ],
+    "name" : "Anja",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "kKG0daROwRAooDHQ7a3zuQcEtVzphIdEvVl4N/KsUuI4ptLbdWAb9ciERNSpgJjj",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/15CsD6saWxAW3TQf6E03X4/tracks",
+      "total" : 138
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:15CsD6saWxAW3TQf6E03X4"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/7GjQI1swa3zbCNQSYPRAD9"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/7GjQI1swa3zbCNQSYPRAD9",
+    "id" : "7GjQI1swa3zbCNQSYPRAD9",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/f1ca4cf32a76e1b7387837e6955cc9affbaf908f5556273cd1e50b7036f5a0fa038e4bebfd123b19f5955d861281695896a3583b8a7d93935dfb6ab023e3795dfe4b11b8b82f43aa324115d11409bf2a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/f1ca4cf32a76e1b7387837e6955cc9affbaf908f5556273cd1e50b7036f5a0fa038e4bebfd123b19f5955d861281695896a3583b8a7d93935dfb6ab023e3795dfe4b11b8b82f43aa324115d11409bf2a",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/f1ca4cf32a76e1b7387837e6955cc9affbaf908f5556273cd1e50b7036f5a0fa038e4bebfd123b19f5955d861281695896a3583b8a7d93935dfb6ab023e3795dfe4b11b8b82f43aa324115d11409bf2a",
+      "width" : 60
+    } ],
+    "name" : "Radio-favorieten",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "SiJ0worxEPxlGprDZzj10YIqbgxfEGyxfkU9QmzmmLtYo6MEthNZe/vJFVM6U0Vs",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/7GjQI1swa3zbCNQSYPRAD9/tracks",
+      "total" : 56
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:7GjQI1swa3zbCNQSYPRAD9"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/5sx7a4So71gIT9H6xRLhOk"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/5sx7a4So71gIT9H6xRLhOk",
+    "id" : "5sx7a4So71gIT9H6xRLhOk",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/4decacbbeac837df1adfd1f2d9e06c9eceb9ff44db872c74767b8b201f985a64a664bc0eb4656b32a04ed6c029867a900049c889bfbd0320bbbc59cc03b4c99c87cf42452c087b1f53530b53ff04d635",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/4decacbbeac837df1adfd1f2d9e06c9eceb9ff44db872c74767b8b201f985a64a664bc0eb4656b32a04ed6c029867a900049c889bfbd0320bbbc59cc03b4c99c87cf42452c087b1f53530b53ff04d635",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/4decacbbeac837df1adfd1f2d9e06c9eceb9ff44db872c74767b8b201f985a64a664bc0eb4656b32a04ed6c029867a900049c889bfbd0320bbbc59cc03b4c99c87cf42452c087b1f53530b53ff04d635",
+      "width" : 60
+    } ],
+    "name" : "_Rock",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "XgWw4OQzJSPHpxBSc0yTGwbrln6GnuTIHLuE3ZtkS6XUzzpVC/3Bmy56PoTKUQ1f",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/5sx7a4So71gIT9H6xRLhOk/tracks",
+      "total" : 489
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:5sx7a4So71gIT9H6xRLhOk"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/6ANpIqsUmVThx6gZcnxNPI"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/6ANpIqsUmVThx6gZcnxNPI",
+    "id" : "6ANpIqsUmVThx6gZcnxNPI",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/42d6fca94f9cf9367ea58e761ed969b1e3a1987fb0216a6121778584bfeff045f70258501e5dd405bb65dfccb90f1309710b6ca74796833fccc6e12ee31409f5acc89f65df1d315710376fe795855a66",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/42d6fca94f9cf9367ea58e761ed969b1e3a1987fb0216a6121778584bfeff045f70258501e5dd405bb65dfccb90f1309710b6ca74796833fccc6e12ee31409f5acc89f65df1d315710376fe795855a66",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/42d6fca94f9cf9367ea58e761ed969b1e3a1987fb0216a6121778584bfeff045f70258501e5dd405bb65dfccb90f1309710b6ca74796833fccc6e12ee31409f5acc89f65df1d315710376fe795855a66",
+      "width" : 60
+    } ],
+    "name" : "_ProgMetal",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "qvQCpjnM/YI3bNxTIrk5rVEW++9EdrzqseD1IkxB7oDO++tAF+oY/VLDyAqTegqj",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/6ANpIqsUmVThx6gZcnxNPI/tracks",
+      "total" : 1223
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:6ANpIqsUmVThx6gZcnxNPI"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/7r61GXAp3KsfrsWaqzuyso"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/7r61GXAp3KsfrsWaqzuyso",
+    "id" : "7r61GXAp3KsfrsWaqzuyso",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/5cc14304263eef4a44ed8e300804b87b3d3a0d7a028e7648873ce483ec22faf467a5e8781730b66c0dfe4d2b2452ecf9674e44f553966c5315836d96051a82810ec77361463c1909a3a406afc1e94549",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/5cc14304263eef4a44ed8e300804b87b3d3a0d7a028e7648873ce483ec22faf467a5e8781730b66c0dfe4d2b2452ecf9674e44f553966c5315836d96051a82810ec77361463c1909a3a406afc1e94549",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/5cc14304263eef4a44ed8e300804b87b3d3a0d7a028e7648873ce483ec22faf467a5e8781730b66c0dfe4d2b2452ecf9674e44f553966c5315836d96051a82810ec77361463c1909a3a406afc1e94549",
+      "width" : 60
+    } ],
+    "name" : "_Gothic",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "7yFYZOtdeqCrlKoXSCPlqoJCE8DDADQM2TE/Z9Xn7UaZDfMMCGOVOstRR22PUgzN",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/7r61GXAp3KsfrsWaqzuyso/tracks",
+      "total" : 504
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:7r61GXAp3KsfrsWaqzuyso"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/1OZhi0xlvoRMj3Eiruhj0R"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/1OZhi0xlvoRMj3Eiruhj0R",
+    "id" : "1OZhi0xlvoRMj3Eiruhj0R",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6fab6c8f0c12d8c5ae784726cc216ee521891413",
+      "width" : 640
+    } ],
+    "name" : "Rock - Van Halen",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "FAs3WqEccxIrLKEVHhlnnhsMzuEsfdkpuEELT4EcdTnjJcpo+L13z9PZHyr3+xQc",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/1OZhi0xlvoRMj3Eiruhj0R/tracks",
+      "total" : 17
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:1OZhi0xlvoRMj3Eiruhj0R"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/5qLaCpNuZ29j7AAhe2iK4N"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/5qLaCpNuZ29j7AAhe2iK4N",
+    "id" : "5qLaCpNuZ29j7AAhe2iK4N",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/f1c747104fa2e67ed44c312c78609b5e120a754ef9cbbd54b81e3d550ab5c0a9d2d8336967c88bdd9c01ef2e053fb472c73e1cec094ed0854f4bb34d54e477b2625342f0a19d46a4b4504d71ae38b67b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/f1c747104fa2e67ed44c312c78609b5e120a754ef9cbbd54b81e3d550ab5c0a9d2d8336967c88bdd9c01ef2e053fb472c73e1cec094ed0854f4bb34d54e477b2625342f0a19d46a4b4504d71ae38b67b",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/f1c747104fa2e67ed44c312c78609b5e120a754ef9cbbd54b81e3d550ab5c0a9d2d8336967c88bdd9c01ef2e053fb472c73e1cec094ed0854f4bb34d54e477b2625342f0a19d46a4b4504d71ae38b67b",
+      "width" : 60
+    } ],
+    "name" : "Rock - Live",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "OkpSq9BJ7NGG49OCYFkndWaCvg4+wKF9CLmkytX0uiXMTej3gtwp6ocj4LiqsDVr",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/5qLaCpNuZ29j7AAhe2iK4N/tracks",
+      "total" : 93
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:5qLaCpNuZ29j7AAhe2iK4N"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/4wTJSmWSaoXgJgQLufeqFb"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/4wTJSmWSaoXgJgQLufeqFb",
+    "id" : "4wTJSmWSaoXgJgQLufeqFb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/4decacbbeac837df1adfd1f2d9e06c9eceb9ff44db872c74767b8b201f985a64a664bc0eb4656b32a04ed6c029867a900049c889bfbd0320bbbc59cc03b4c99c87cf42452c087b1f53530b53ff04d635",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/4decacbbeac837df1adfd1f2d9e06c9eceb9ff44db872c74767b8b201f985a64a664bc0eb4656b32a04ed6c029867a900049c889bfbd0320bbbc59cc03b4c99c87cf42452c087b1f53530b53ff04d635",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/4decacbbeac837df1adfd1f2d9e06c9eceb9ff44db872c74767b8b201f985a64a664bc0eb4656b32a04ed6c029867a900049c889bfbd0320bbbc59cc03b4c99c87cf42452c087b1f53530b53ff04d635",
+      "width" : 60
+    } ],
+    "name" : "Rock - Iron Maiden",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "86GGZ27+rso6rAjmsuYWLH3hbZUeHvR7WllhHbhBwbFmIoQl8r5c/bKZyxbPvWsV",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/4wTJSmWSaoXgJgQLufeqFb/tracks",
+      "total" : 143
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:4wTJSmWSaoXgJgQLufeqFb"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/29Px9Ul08Rv2CNQhWo6sB6"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/29Px9Ul08Rv2CNQhWo6sB6",
+    "id" : "29Px9Ul08Rv2CNQhWo6sB6",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/ce66cd8787a7dd3cfaec5cee554bc81d2b36ca4beec873d8b89ca95a0013d121265d9ba91088a8e6c9a6126f6360174bfd2481a7aad5f70b91486d98c4876c8f5d985f601faf7de2c3b6b30e2a6c99ea",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/ce66cd8787a7dd3cfaec5cee554bc81d2b36ca4beec873d8b89ca95a0013d121265d9ba91088a8e6c9a6126f6360174bfd2481a7aad5f70b91486d98c4876c8f5d985f601faf7de2c3b6b30e2a6c99ea",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/ce66cd8787a7dd3cfaec5cee554bc81d2b36ca4beec873d8b89ca95a0013d121265d9ba91088a8e6c9a6126f6360174bfd2481a7aad5f70b91486d98c4876c8f5d985f601faf7de2c3b6b30e2a6c99ea",
+      "width" : 60
+    } ],
+    "name" : "ProgMetal - DGM",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "X8xmj3lnce6ce9LaoKfdA3YOSBn+xzl1xXv8Li6OwHcm4lVRlZnQmctRR22PUgzN",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/29Px9Ul08Rv2CNQhWo6sB6/tracks",
+      "total" : 60
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:29Px9Ul08Rv2CNQhWo6sB6"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/4DXrjXh9wg5ufVhq1rIiOK"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/4DXrjXh9wg5ufVhq1rIiOK",
+    "id" : "4DXrjXh9wg5ufVhq1rIiOK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9182da07b3d75218df2cba6271f05e7cc0a7560f",
+      "width" : 640
+    } ],
+    "name" : "ProgMetal - Symphony X",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "0gXM0U5+0/OTwc1DMNJ+995HPXZGOoyXpODXAAo1e5DEIKJm8Yi1b1ZqgoGpE1zz",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/4DXrjXh9wg5ufVhq1rIiOK/tracks",
+      "total" : 80
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:4DXrjXh9wg5ufVhq1rIiOK"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/2NRWyQmXa0qI9VZ3Kvi0Ly"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/2NRWyQmXa0qI9VZ3Kvi0Ly",
+    "id" : "2NRWyQmXa0qI9VZ3Kvi0Ly",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/b0216a6121778584bfeff045f70258501e5dd405d7c2d35094618be2a8c0d0ef219a96202aeeb5dd909d8c034da5251ac90a57853a608492d6c18bb416df93f82f17f7dc9edced5e7466a31922f1874e",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/b0216a6121778584bfeff045f70258501e5dd405d7c2d35094618be2a8c0d0ef219a96202aeeb5dd909d8c034da5251ac90a57853a608492d6c18bb416df93f82f17f7dc9edced5e7466a31922f1874e",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/b0216a6121778584bfeff045f70258501e5dd405d7c2d35094618be2a8c0d0ef219a96202aeeb5dd909d8c034da5251ac90a57853a608492d6c18bb416df93f82f17f7dc9edced5e7466a31922f1874e",
+      "width" : 60
+    } ],
+    "name" : "ProgMetal - Dream Theater",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "V05gbsBMVmee0KgiPgMuC66RrsFaJEFIiJfgeeqU5Xni9b7sT3Hi8BI2FZAekGxi",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/2NRWyQmXa0qI9VZ3Kvi0Ly/tracks",
+      "total" : 161
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:2NRWyQmXa0qI9VZ3Kvi0Ly"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/0eXPtwMnqLNlPRZjJMj03m"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/0eXPtwMnqLNlPRZjJMj03m",
+    "id" : "0eXPtwMnqLNlPRZjJMj03m",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/d14747f2ccda758fd23f29fb160c68006cebbbc8312836bb21761b41fc4d1d5e3cb23a6b6de5bcec0a3f251af48f44d3a25b16b961fad86f3f7f95a4822cf8e86614c3bf1b7ad68b874f715f5f4e7b9f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/d14747f2ccda758fd23f29fb160c68006cebbbc8312836bb21761b41fc4d1d5e3cb23a6b6de5bcec0a3f251af48f44d3a25b16b961fad86f3f7f95a4822cf8e86614c3bf1b7ad68b874f715f5f4e7b9f",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/d14747f2ccda758fd23f29fb160c68006cebbbc8312836bb21761b41fc4d1d5e3cb23a6b6de5bcec0a3f251af48f44d3a25b16b961fad86f3f7f95a4822cf8e86614c3bf1b7ad68b874f715f5f4e7b9f",
+      "width" : 60
+    } ],
+    "name" : "ProgMetal - Masterplan",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "xjL4z6csyk9gKiVovLcmKn2GcfLSEHr6rpToXmLPBk82tAf+HkFQ8pPjmsyLp8K8",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/0eXPtwMnqLNlPRZjJMj03m/tracks",
+      "total" : 55
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:0eXPtwMnqLNlPRZjJMj03m"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/3NzqitzW6b1OTRWoGp8NnK"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/3NzqitzW6b1OTRWoGp8NnK",
+    "id" : "3NzqitzW6b1OTRWoGp8NnK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/43fac03a0a135d31d1db8aa125214d757f20f9a80facefc163e87f7e141ca5771c29f1b68c94acabe343c4fd9729809b907c0f81c10f874f148472b41d9d57e786e86d92c4c5290504ea52112ae1ea59",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/43fac03a0a135d31d1db8aa125214d757f20f9a80facefc163e87f7e141ca5771c29f1b68c94acabe343c4fd9729809b907c0f81c10f874f148472b41d9d57e786e86d92c4c5290504ea52112ae1ea59",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/43fac03a0a135d31d1db8aa125214d757f20f9a80facefc163e87f7e141ca5771c29f1b68c94acabe343c4fd9729809b907c0f81c10f874f148472b41d9d57e786e86d92c4c5290504ea52112ae1ea59",
+      "width" : 60
+    } ],
+    "name" : "ProgMetal - Pagan's Mind",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "HViMG5Gzh6coW1fgycKga1hhc1ms2Pa2RffK+ALK1xW2vJeE/Rj5PZNJTO1Bn+BO",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/3NzqitzW6b1OTRWoGp8NnK/tracks",
+      "total" : 57
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:3NzqitzW6b1OTRWoGp8NnK"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/1pqh6oQpqEreZU5Famg5hh"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/1pqh6oQpqEreZU5Famg5hh",
+    "id" : "1pqh6oQpqEreZU5Famg5hh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/7cd9788b04909df0e65583a81828df552a4761ef222fc58ee8e20ed6b38bb9771a316b4a91a072853d975b05a9eebb58c7fa8f5a886304313138aa58ac33485f8e8478e258f0bda75ef178838288ec2b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/7cd9788b04909df0e65583a81828df552a4761ef222fc58ee8e20ed6b38bb9771a316b4a91a072853d975b05a9eebb58c7fa8f5a886304313138aa58ac33485f8e8478e258f0bda75ef178838288ec2b",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/7cd9788b04909df0e65583a81828df552a4761ef222fc58ee8e20ed6b38bb9771a316b4a91a072853d975b05a9eebb58c7fa8f5a886304313138aa58ac33485f8e8478e258f0bda75ef178838288ec2b",
+      "width" : 60
+    } ],
+    "name" : "ProgMetal - Spock's Beard",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "pW3GzxGqa9hN+muqMQcEz0R3u4e6a792pZ9Cd82S+4d2gv6KcjWcChjXDG9K1Oc3",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/1pqh6oQpqEreZU5Famg5hh/tracks",
+      "total" : 87
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:1pqh6oQpqEreZU5Famg5hh"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/0SqKAqD4N18rT299DQL7Qt"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/0SqKAqD4N18rT299DQL7Qt",
+    "id" : "0SqKAqD4N18rT299DQL7Qt",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/b6b17f5e40f9020f70a9bd134971ce5e01c242cf",
+      "width" : 640
+    } ],
+    "name" : "ProgMetal - Ayreon",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "uSbwEMTCPxTRMvHjYjNwfKLwsqyDwpTxY7rZ/aZn/LAgvdGW1d+QHdUS/Ox1LaJZ",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/0SqKAqD4N18rT299DQL7Qt/tracks",
+      "total" : 171
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:0SqKAqD4N18rT299DQL7Qt"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/7dNNpGGBU9XXa1H7HXETTe"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/7dNNpGGBU9XXa1H7HXETTe",
+    "id" : "7dNNpGGBU9XXa1H7HXETTe",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/caa3459c827d2c521694c191d1338baa384914fb70094d9689bf91aaba7142951fae230e5cca8cdc16754331ebe6fa98aa94a9c0b209c3c54b04f859f5adac58b1284ca22248984ef0983ae2b7a94cfa",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/caa3459c827d2c521694c191d1338baa384914fb70094d9689bf91aaba7142951fae230e5cca8cdc16754331ebe6fa98aa94a9c0b209c3c54b04f859f5adac58b1284ca22248984ef0983ae2b7a94cfa",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/caa3459c827d2c521694c191d1338baa384914fb70094d9689bf91aaba7142951fae230e5cca8cdc16754331ebe6fa98aa94a9c0b209c3c54b04f859f5adac58b1284ca22248984ef0983ae2b7a94cfa",
+      "width" : 60
+    } ],
+    "name" : "ProgMetal - Morgana Lefay",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "aF74c+M8o+m094d6ddkQtmtnV7eqMIDJrkM5IqOke0GtLm84vtABvQl0ETUaKtuh",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/7dNNpGGBU9XXa1H7HXETTe/tracks",
+      "total" : 83
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:7dNNpGGBU9XXa1H7HXETTe"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/0wwWoTTcdeMZ8YP11cbdJ4"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/0wwWoTTcdeMZ8YP11cbdJ4",
+    "id" : "0wwWoTTcdeMZ8YP11cbdJ4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/7b84057a1845bd0bc63887cb7d40a215ed2255e1b73991eaa40300039c3a5ca2dc657c14016c48a55cc14304263eef4a44ed8e300804b87b3d3a0d7a051a82810ec77361463c1909a3a406afc1e94549",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/7b84057a1845bd0bc63887cb7d40a215ed2255e1b73991eaa40300039c3a5ca2dc657c14016c48a55cc14304263eef4a44ed8e300804b87b3d3a0d7a051a82810ec77361463c1909a3a406afc1e94549",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/7b84057a1845bd0bc63887cb7d40a215ed2255e1b73991eaa40300039c3a5ca2dc657c14016c48a55cc14304263eef4a44ed8e300804b87b3d3a0d7a051a82810ec77361463c1909a3a406afc1e94549",
+      "width" : 60
+    } ],
+    "name" : "Gothic - Nightwish",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "aNDyoso9V0vhttfNhPCn4489+pxNqCQrPkA23eC9J5oQAhKf86NbUUlAhXcTSO9g",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/0wwWoTTcdeMZ8YP11cbdJ4/tracks",
+      "total" : 109
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:0wwWoTTcdeMZ8YP11cbdJ4"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/35nvnmHfFGPAUFIkYaCiDx"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/35nvnmHfFGPAUFIkYaCiDx",
+    "id" : "35nvnmHfFGPAUFIkYaCiDx",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/486aca6d5256d9cfafc92a74c5a6836a899fadba",
+      "width" : 640
+    } ],
+    "name" : "Gothic - Kamelot",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "qzACtXSeH2CPKUhG7o2Ckus4kD4Bts+wJFkCGsbBOtg53CzsiVS+5YvS1heLc8Lp",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/35nvnmHfFGPAUFIkYaCiDx/tracks",
+      "total" : 169
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:35nvnmHfFGPAUFIkYaCiDx"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/424BqLPTEbfXrLW5UOAy0L"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/424BqLPTEbfXrLW5UOAy0L",
+    "id" : "424BqLPTEbfXrLW5UOAy0L",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/aca38a254b2ef4c38db76f64bcd55f68ba83101a417512fc389e727efbe80af7493e5eb285baf482f22a98d5295e84278dd36410418d6b68cd79595c1a840ac8081f94eea6bb75bd9c696a222f6e893f",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/aca38a254b2ef4c38db76f64bcd55f68ba83101a417512fc389e727efbe80af7493e5eb285baf482f22a98d5295e84278dd36410418d6b68cd79595c1a840ac8081f94eea6bb75bd9c696a222f6e893f",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/aca38a254b2ef4c38db76f64bcd55f68ba83101a417512fc389e727efbe80af7493e5eb285baf482f22a98d5295e84278dd36410418d6b68cd79595c1a840ac8081f94eea6bb75bd9c696a222f6e893f",
+      "width" : 60
+    } ],
+    "name" : "Gothic - Therion",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "u3PWquTmqYslIuA8NKmDA/Wt8SKV0w1/S/Oa4Qn/Q56zS02NzFKqxTlxWJojHofx",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/424BqLPTEbfXrLW5UOAy0L/tracks",
+      "total" : 169
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:424BqLPTEbfXrLW5UOAy0L"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/2VdFmeFz1BQglQecvL8nZN"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/2VdFmeFz1BQglQecvL8nZN",
+    "id" : "2VdFmeFz1BQglQecvL8nZN",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/fdb5eb6d81f7736a599024be4a73aeb3e7a533b6d6f1c44c832105a6fa9463ed4154ee11e72a469ff0d30f1b21a6f216a1b33c0842f9fa79f769e27864a47502ecc36d597cc6ea1bcf735a06243a4847",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/fdb5eb6d81f7736a599024be4a73aeb3e7a533b6d6f1c44c832105a6fa9463ed4154ee11e72a469ff0d30f1b21a6f216a1b33c0842f9fa79f769e27864a47502ecc36d597cc6ea1bcf735a06243a4847",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/fdb5eb6d81f7736a599024be4a73aeb3e7a533b6d6f1c44c832105a6fa9463ed4154ee11e72a469ff0d30f1b21a6f216a1b33c0842f9fa79f769e27864a47502ecc36d597cc6ea1bcf735a06243a4847",
+      "width" : 60
+    } ],
+    "name" : "Gothic - Within Temptation",
+    "owner" : {
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/remcoperlee"
+      },
+      "href" : "https://api.spotify.com/v1/users/remcoperlee",
+      "id" : "remcoperlee",
+      "type" : "user",
+      "uri" : "spotify:user:remcoperlee"
+    },
+    "public" : true,
+    "snapshot_id" : "ceIXBLbRi72bZM13iT5HX8jrva/TzB2zAPaThWdasiPZ2N1wbjB2pudTTLorC3cN",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/2VdFmeFz1BQglQecvL8nZN/tracks",
+      "total" : 69
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:remcoperlee:playlist:2VdFmeFz1BQglQecvL8nZN"
+  } ],
+  "limit" : 50,
+  "next" : null,
+  "offset" : 0,
+  "previous" : null,
+  "total" : 47
+}

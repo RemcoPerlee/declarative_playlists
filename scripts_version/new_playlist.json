@@ -1,0 +1,37 @@
+{
+  "collaborative" : false,
+  "description" : null,
+  "external_urls" : {
+    "spotify" : "http://open.spotify.com/user/remcoperlee/playlist/10hFuOZBF4fs7i72hekv9b"
+  },
+  "followers" : {
+    "href" : null,
+    "total" : 0
+  },
+  "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/10hFuOZBF4fs7i72hekv9b",
+  "id" : "10hFuOZBF4fs7i72hekv9b",
+  "images" : [ ],
+  "name" : "NewPlaylist",
+  "owner" : {
+    "external_urls" : {
+      "spotify" : "http://open.spotify.com/user/remcoperlee"
+    },
+    "href" : "https://api.spotify.com/v1/users/remcoperlee",
+    "id" : "remcoperlee",
+    "type" : "user",
+    "uri" : "spotify:user:remcoperlee"
+  },
+  "public" : false,
+  "snapshot_id" : "PEHn/4shFfiZp6s9Vu5R0qhDBygF3H8py/sd/VQm+nVdc8ImKCIUDH+KIuFZebZp",
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/users/remcoperlee/playlists/10hFuOZBF4fs7i72hekv9b/tracks",
+    "items" : [ ],
+    "limit" : 100,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 0
+  },
+  "type" : "playlist",
+  "uri" : "spotify:user:remcoperlee:playlist:10hFuOZBF4fs7i72hekv9b"
+}
